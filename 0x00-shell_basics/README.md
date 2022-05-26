@@ -8,3 +8,4 @@ mkdir /tmp/my_first_directory- create my_first_directory directoy in tmp directo
 mv /tmp/betty /tmp/my_first_directory- move file from derectory tmp to directory my_first_directory
 rm -r tmp/my_first_directory/betty- to delete file betty from my_first_directory directory
 rm -r- delete directory
+cd ..- go to previous working directory
