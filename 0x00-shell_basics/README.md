@@ -10,3 +10,4 @@ rm -r tmp/my_first_directory/betty- to delete file betty from my_first_directory
 rm -r- delete directory
 cd ..- go to previous working directory
 ls -la . .. /boot- list all files in current dir, parent dir and /boot dir
+file /tmp/iamfile- print type of file named iamfile in dir tmp
