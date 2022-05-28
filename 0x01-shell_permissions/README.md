@@ -9,3 +9,4 @@ chmod a+x hello- adds execution permissionfor everyone
 chmode 007 hello- give no permission to owner, no permission to group and all permissions to other users
 chmod 753 hello
 chmod --reference=olleh hello- sets mode of file hello the same as olleh
+chmod a+X*- adds execution permission to all sub dir in current dir
