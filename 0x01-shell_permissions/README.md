@@ -11,3 +11,4 @@ chmod 753 hello
 chmod --reference=olleh hello- sets mode of file hello the same as olleh
 chmod a+X*- adds execution permission to all sub dir in current dir
 mkdir -m 751 my_dir- creates my_dir dir with permissions 751
+chgrp school hello- changes group owner to school for file hello
