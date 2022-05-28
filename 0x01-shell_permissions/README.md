@@ -8,3 +8,4 @@ chmod ug+x,o+r hello- adds execution permission to owner and group, and read per
 chmod a+x hello- adds execution permissionfor everyone
 chmode 007 hello- give no permission to owner, no permission to group and all permissions to other users
 chmod 753 hello
+chmod --reference=olleh hello- sets mode of file hello the same as olleh
