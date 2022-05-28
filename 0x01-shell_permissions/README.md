@@ -4,3 +4,4 @@ groups- prints all groups current user is part of
 sude chown betty hello- changes owner of file hello to user betty
 touch hello- creats emptly file hello
 chmod u+x hello- adds execute permissions to owner of file hello
+chmod ug+x,o+r hello- adds execution permission to owner and group, and read permission to other users, to file hello
