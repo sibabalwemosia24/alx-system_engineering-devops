@@ -5,3 +5,4 @@ cat /etc/passwd | cat /etc/hosts- displays contents of /etc/passwd and /etc/host
 ls -lt | head /etc/passwd- dispalys first ten lines of /etc/passwid
 head -3 iacta | tail -1- display third line of iacta file
 echo- creates file with text 
+ls -la > ls_cwd_content- writes result of ls -la command in file ls_cwd_content
