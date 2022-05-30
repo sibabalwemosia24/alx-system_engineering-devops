@@ -4,3 +4,4 @@ ls -lt | head /etc/passwd- displays the last ten lines of /etc/passwd
 cat /etc/passwd | cat /etc/hosts- displays contents of /etc/passwd and /etc/hosts
 ls -lt | head /etc/passwd- dispalys first ten lines of /etc/passwid
 head -3 iacta | tail -1- display third line of iacta file
+echo- creates file with text 
