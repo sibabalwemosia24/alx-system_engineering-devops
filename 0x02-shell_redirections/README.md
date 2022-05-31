@@ -6,3 +6,4 @@ ls -lt | head /etc/passwd- dispalys first ten lines of /etc/passwid
 head -3 iacta | tail -1- display third line of iacta file
 echo- creates file with text 
 ls -la > ls_cwd_content- writes result of ls -la command in file ls_cwd_content
+task 9- duplicates last line of the file
