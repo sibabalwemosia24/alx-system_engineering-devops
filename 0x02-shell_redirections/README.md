@@ -18,3 +18,4 @@ task 17- displays all the lines in file /etc/passwd that do not contain the patt
 task 18- displays lines stating with a letter including capital letters
 task 19- replaces a and c charecters from input to z and e respectively
 task 20- removes all letters c and C from input
+task 21- reverse input
