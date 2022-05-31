@@ -10,3 +10,4 @@ task 9- duplicates last line of the file
 task 10- deletes all regular files with .js extensio that are present in current dir and subfolders
 task 11- counts the number of dir annd sub dir in current dir
 task 12- displays newest files in the current dir
+task 13- takes list of words as input and prints wprd that appear exactly once
