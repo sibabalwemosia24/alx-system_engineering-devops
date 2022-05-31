@@ -20,3 +20,4 @@ task 19- replaces a and c charecters from input to z and e respectively
 task 20- removes all letters c and C from input
 task 21- reverse input
 task 22- displays all users and their home directories
+task 23-find all file and dir in current dir and all sub dir
