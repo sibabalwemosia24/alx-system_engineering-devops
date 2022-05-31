@@ -13,3 +13,4 @@ task 12- displays newest files in the current dir
 task 13- takes list of words as input and prints wprd that appear exactly once
 task 14- displays lines containing the pattern "root" from fi /etc/passwd
 task 15- displays the numbers of lines tha contain the pattern "bin" in the file /etc/passwd
+task 16- displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
