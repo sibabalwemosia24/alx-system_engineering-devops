@@ -15,3 +15,4 @@ task 14- displays lines containing the pattern "root" from fi /etc/passwd
 task 15- displays the numbers of lines tha contain the pattern "bin" in the file /etc/passwd
 task 16- displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
 task 17- displays all the lines in file /etc/passwd that do not contain the pattern "bin"
+task 18- displays lines stating with a letter including capital letters
