@@ -22,3 +22,4 @@ task 21- reverse input
 task 22- displays all users and their home directories
 task 23-find all file and dir in current dir and all sub dir
 103-the biggest_fan- parses web severs logs
+102-acrostic- list lines in poemm
