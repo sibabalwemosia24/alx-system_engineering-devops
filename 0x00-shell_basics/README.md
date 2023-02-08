@@ -6,3 +6,4 @@
 4. Displays current directory contents, including hidden files (starting with .)
 5. Displays current directory contents - long format - with user and group IDs diplayed numerically - and hidden file
 6. Creates a directory named myFirstDirectory in the /tmp/ directory
+7. Moves the file betty from /tmp to /tmp/my_first_directory
