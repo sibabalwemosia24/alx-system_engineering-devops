@@ -17,3 +17,4 @@
 100. Moves all files beginning with an uppercase letter to the dir /tmp/u
 101. Deletes all files in the current working directory that ent with the charactor ~
 102. creates directories welcom/, welcome/to/ and welcome/to/school in current directory
+103. Lists all files and directories of the current directory seperated by commas
