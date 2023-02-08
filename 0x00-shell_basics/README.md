@@ -8,3 +8,4 @@
 6. Creates a directory named myFirstDirectory in the /tmp/ directory
 7. Moves the file betty from /tmp to /tmp/my_first_directory
 8. Deletes the file betty in /tmp/my_first_directory
+9. Deleletes the directory myFirstDirectory that is in the /tmp directory
