@@ -12,3 +12,4 @@
 10. Choanges the working directory to previous one
 11. lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
 12. prints the type of the file named iamafile
+13. Creates a symbolic link to /bin/ls named __ls__
