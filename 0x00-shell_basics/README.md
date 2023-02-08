@@ -14,3 +14,4 @@
 12. prints the type of the file named iamafile
 13. Creates a symbolic link to /bin/ls named __ls__
 14. Copies all the HTML files from the current working directory to the parent of the working directory, but only copies files that did not exist in the parent of the working directory or were newer than the version in the parenet of the working directory
+100. Moves all files beginning with an uppercase letter to the dir /tmp/u
