@@ -16,3 +16,4 @@
 14. Copies all the HTML files from the current working directory to the parent of the working directory, but only copies files that did not exist in the parent of the working directory or were newer than the version in the parenet of the working directory
 100. Moves all files beginning with an uppercase letter to the dir /tmp/u
 101. Deletes all files in the current working directory that ent with the charactor ~
+102. creates directories welcom/, welcome/to/ and welcome/to/school in current directory
