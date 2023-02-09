@@ -6,3 +6,4 @@
 4. Creates an empty file called hello
 5. Adds execute permission to the owner of the file hello
 6. Adds execute permission to the owner and the group owner and read permissions to other users, to the file hello
+7. Adds execution permission to the owner, the group and the other users, to the file hello
