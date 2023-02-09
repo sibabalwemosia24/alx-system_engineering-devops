@@ -11,4 +11,4 @@
 9. Sets the mode of the file hello to -rwxr-x-wx
 10. sets the mode of the file hello the same as olleh's mode
 11. Add execute permissin to subdirectories of the current directoery for the owner, the group owner and all othe users. does not change regular files.
-
+12. CReates a directory called my_dir with permissions 751 in the working directory
