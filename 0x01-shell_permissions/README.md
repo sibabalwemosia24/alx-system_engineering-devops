@@ -10,3 +10,5 @@
 8. sets the permissions to the file hello to. No permissions to owner. No Permissions to group. All permission to other.
 9. Sets the mode of the file hello to -rwxr-x-wx
 10. sets the mode of the file hello the same as olleh's mode
+11. Add execute permissin to subdirectories of the current directoery for the owner, the group owner and all othe users. does not change regular files.
+
