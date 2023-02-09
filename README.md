@@ -6,3 +6,6 @@
 - Reading Man Pages
 - Keyboard Shortcuts for Bash
 - LTS
+## 0x01-shell permissions
+- Permissions
+- Other Man Pages
