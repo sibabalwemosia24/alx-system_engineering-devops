@@ -14,3 +14,4 @@
 12. CReates a directory called my_dir with permissions 751 in the working directory
 13. Changeas the group owner to school for the file hello
 100. Changes the owner too vincent and the group owner to satff for all files and directories in the working dir
+101. Changes the owner and the group owner of __hello to vincent and staff respectively
