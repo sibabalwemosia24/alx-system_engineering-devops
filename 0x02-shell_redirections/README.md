@@ -14,3 +14,4 @@
 13. Takes a list of words as input and prints only words that appear exactly once
 14. Displpays lines contatining the pattern root from the firl /etc/passwd
 15. Diplays the number of lines that contain the pattern "bin" int the file /etc/passwd
+16. Displays line containing the pattern "root" and 3 lines after them in the file /etc/passwd
