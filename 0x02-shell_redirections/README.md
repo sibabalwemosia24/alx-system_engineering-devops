@@ -21,3 +21,4 @@
 20. Removes all letter c and C from input
 21. Reverses its input
 22. Displays all users and their home directories, sprted by users
+23. Finds all empty files and directories int the current dir and all sub-dir
