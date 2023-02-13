@@ -9,3 +9,7 @@
 ## 0x01-shell permissions
 - Permissions
 - Other Man Pages
+## 0x02- Shell, I/) Redirections and filter
+- Shell, I/O redirection
+- Special Charactors
+- Other Man Pages
