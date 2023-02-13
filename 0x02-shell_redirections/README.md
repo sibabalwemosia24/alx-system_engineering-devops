@@ -9,3 +9,4 @@
 8. Writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
 9. Duplcates the last line of the file iacta
 10. Delets all the regular files (no the directories) with a .js extension that are present in current dir and all subdir
+11. Counts the number of directories and sub-directories in the current dir
