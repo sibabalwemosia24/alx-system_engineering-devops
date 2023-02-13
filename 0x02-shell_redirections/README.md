@@ -22,3 +22,4 @@
 21. Reverses its input
 22. Displays all users and their home directories, sprted by users
 23. Finds all empty files and directories int the current dir and all sub-dir
+24. List all the files with a .gif extention in the current working dir and all is sub-dir.
