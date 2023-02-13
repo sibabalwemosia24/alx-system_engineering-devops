@@ -15,3 +15,4 @@
 14. Displpays lines contatining the pattern root from the firl /etc/passwd
 15. Diplays the number of lines that contain the pattern "bin" int the file /etc/passwd
 16. Displays line containing the pattern "root" and 3 lines after them in the file /etc/passwd
+17. Displays all the lines in the file /etc/passwd that do not contain the pattern 'bin'
