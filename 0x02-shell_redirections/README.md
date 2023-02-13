@@ -10,3 +10,4 @@
 9. Duplcates the last line of the file iacta
 10. Delets all the regular files (no the directories) with a .js extension that are present in current dir and all subdir
 11. Counts the number of directories and sub-directories in the current dir
+12. Displays the 10 newest files in the current directory
