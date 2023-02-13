@@ -19,3 +19,4 @@
 18. Diplays all line of the file /etc/ssh/sshd_config starting with a letter
 19. Replaces all charactors A and c from input to Z and e respectively
 20. Removes all letter c and C from input
+21. Reverses its input
