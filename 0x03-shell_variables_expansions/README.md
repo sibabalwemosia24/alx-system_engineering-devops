@@ -13,3 +13,4 @@
 12. prints all possible combinations of two letter, except oo
 13. Prints a number with two decimal places
 100. Converts a number from base 10 to base 16
+101. Encodes and decodes text using rot13 encryption
