@@ -11,3 +11,4 @@
 10. Displays the result of BREATH to the power LOWER
 11. Converts a number from base 2 to base 10
 12. prints all possible combinations of two letter, except oo
+13. Prints a number with two decimal places
