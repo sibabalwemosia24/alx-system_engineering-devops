@@ -9,3 +9,4 @@
 8. Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE 
 9. Prints the result of POWER divided by DIVIDE
 10. Displays the result of BREATH to the power LOWER
+11. Converts a number from base 2 to base 10
