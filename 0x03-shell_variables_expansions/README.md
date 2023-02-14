@@ -15,3 +15,4 @@
 100. Converts a number from base 10 to base 16
 101. Encodes and decodes text using rot13 encryption
 102. Prints every other line from the input, starting with the first line
+103. Adds the the two numbers stored in the envronment variables WATER and STIR and prints the result
