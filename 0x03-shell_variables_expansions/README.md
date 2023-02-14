@@ -12,3 +12,4 @@
 11. Converts a number from base 2 to base 10
 12. prints all possible combinations of two letter, except oo
 13. Prints a number with two decimal places
+100. Converts a number from base 10 to base 16
