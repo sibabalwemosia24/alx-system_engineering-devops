@@ -7,3 +7,4 @@
 6. Creates a new local variable
 7. Creates a new global variable
 8. Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE 
+9. Prints the result of POWER divided by DIVIDE
